@@ -1,1 +1,1 @@
-# Code your solutions in this file
+print("I got a dog")
