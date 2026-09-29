@@ -1,5 +1,6 @@
 print("Written by: Teige and Amilia")
 print("Title: Happy Dogs Happy Family")
+print("Setting: Latveria")
 print("I got a dog.")
 print("He died.")
 print("I buried him in the backyard.")
