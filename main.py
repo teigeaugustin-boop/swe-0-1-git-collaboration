@@ -1,5 +1,4 @@
 print("Written by: Teige and Amilia")
-print("Title: Sad Story")
 print("I got a dog.")
 print("He died.")
 print("I buried him in the backyard.")
