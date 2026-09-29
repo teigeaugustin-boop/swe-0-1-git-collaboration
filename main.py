@@ -1,1 +1,5 @@
-print("I got a dog")
+print("I got a dog.")
+print("He died")
+print("I buried him in the backyard")
+print("He rose from the dead")
+print("Now he's haunting me for food")
